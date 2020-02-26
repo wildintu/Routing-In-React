@@ -8,6 +8,7 @@ class FilmsCard extends Component {
             <div className="card">
                 <h4>{this.props.title}</h4>
                 <p>{this.props.desc}</p>
+                <p>{this.props.details}</p>
             </div>
         )
     }
