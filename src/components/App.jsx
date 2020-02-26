@@ -8,9 +8,6 @@ import People from "./People";
 // import Logo from '../assets/logo.png';
 
 class App extends Component {
-//   constructor(props) {
-//     super(props);
-//   }
 
   render() {
     return (
